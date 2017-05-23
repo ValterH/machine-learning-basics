@@ -1,3 +1,3 @@
 # machine-learning-basics
 
-Classification, regression, SVM basics
+Classification, regression
